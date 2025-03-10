@@ -1,3 +1,9 @@
+<h2 align="center">🌍 Acesse o Projeto</h2>
+
+Você pode acessar o projeto diretamente através do seguinte link:
+
+- [Acessar o Jogo de Amigo Secreto](https://challenge-amigo-secreto-seven-beta.vercel.app/)
+
 # Aplicação Amigo Secreto
 
 Desafio final da fase de formação "Iniciante em programação" do programa Oracle Next Education + Alura turma G8. O objetivo desse projeto foi desenvolver uma aplicação que sorteia um amigo secreto. 
