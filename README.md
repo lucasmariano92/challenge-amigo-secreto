@@ -27,7 +27,7 @@ Este projeto é uma aplicação web com a finalidade de sortear um amigo secreto
 
 ## A Aplicação 
 
-![Exemplo da aplicação web](imagens/aplicacaoEx1.gif)  
+<img src="assets/tela-amigo-secreto.png" alt="Imagem representativa da tela da aplicação"> 
 
 ![xemplo 2 da aplicação web](imagens/aplicacaoEx2.gif)
 
